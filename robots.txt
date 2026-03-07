@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://antoineplumerault.github.io/sitemap.xml
