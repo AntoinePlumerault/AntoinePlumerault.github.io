@@ -1,10 +1,22 @@
 1:"$Sreact.fragment"
-2:I[52057,["/_next/static/chunks/204956e4390daf22.js","/_next/static/chunks/55fdeabc380c794a.js","/_next/static/chunks/c94156435451b7e8.js","/_next/static/chunks/5c75f279ffc55536.js"],"default"]
-3:I[19646,["/_next/static/chunks/204956e4390daf22.js","/_next/static/chunks/55fdeabc380c794a.js","/_next/static/chunks/c94156435451b7e8.js","/_next/static/chunks/5c75f279ffc55536.js"],"default"]
-4:I[26863,["/_next/static/chunks/204956e4390daf22.js","/_next/static/chunks/55fdeabc380c794a.js","/_next/static/chunks/c94156435451b7e8.js","/_next/static/chunks/5c75f279ffc55536.js"],"default"]
-5:I[614,["/_next/static/chunks/204956e4390daf22.js","/_next/static/chunks/55fdeabc380c794a.js","/_next/static/chunks/c94156435451b7e8.js","/_next/static/chunks/5c75f279ffc55536.js"],"default"]
-6:I[42502,["/_next/static/chunks/204956e4390daf22.js","/_next/static/chunks/55fdeabc380c794a.js","/_next/static/chunks/c94156435451b7e8.js","/_next/static/chunks/5c75f279ffc55536.js"],"default"]
-7:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
-8:"$Sreact.suspense"
-0:{"buildId":"HqHKMGhuNiDwjEW5jtaMr","rsc":["$","$1","c",{"children":[["$","$L2",null,{"children":["$","$L3",null,{"sx":{"py":8},"children":[["$","$L4",null,{"variant":"h3","component":"h1","sx":{"mb":4,"fontWeight":600},"children":"Tools"}],["$","$L4",null,{"variant":"body1","sx":{"mb":6,"opacity":0.8},"children":"A collection of interactive tools and applications related to deep learning, mathematics, and physics."}],[["$","$L5",null,{"children":[["$","$L3","0",{"children":[["$","hr",null,{}],["$","$L6",null,{"tool":{"slug":"latex2svg","title":"LaTeX to SVG","description":"LaTeX to SVG path converter","image":"/tools/latex2svg/cover.png"}}]]}]]}],["$","hr",null,{}]]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/5c75f279ffc55536.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"loading":null,"isPartial":false}
-9:null
+2:I[19646,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2m-2pk8y9b50k.js","/_next/static/chunks/3u4gkj78p1zow.js","/_next/static/chunks/1654pnq96s7jn.js","/_next/static/chunks/0w3qjumo3sgey.js"],"default"]
+3:I[26863,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2m-2pk8y9b50k.js","/_next/static/chunks/3u4gkj78p1zow.js","/_next/static/chunks/1654pnq96s7jn.js","/_next/static/chunks/0w3qjumo3sgey.js"],"default"]
+4:I[614,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2m-2pk8y9b50k.js","/_next/static/chunks/3u4gkj78p1zow.js","/_next/static/chunks/1654pnq96s7jn.js","/_next/static/chunks/0w3qjumo3sgey.js"],"default"]
+5:I[42502,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2m-2pk8y9b50k.js","/_next/static/chunks/3u4gkj78p1zow.js","/_next/static/chunks/1654pnq96s7jn.js","/_next/static/chunks/0w3qjumo3sgey.js"],"default"]
+6:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2m-2pk8y9b50k.js","/_next/static/chunks/3u4gkj78p1zow.js","/_next/static/chunks/1654pnq96s7jn.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+b:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2m-2pk8y9b50k.js","/_next/static/chunks/3u4gkj78p1zow.js","/_next/static/chunks/1654pnq96s7jn.js"],"ViewportBoundary"]
+c:I[97367,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2m-2pk8y9b50k.js","/_next/static/chunks/3u4gkj78p1zow.js","/_next/static/chunks/1654pnq96s7jn.js"],"MetadataBoundary"]
+d:I[27201,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2m-2pk8y9b50k.js","/_next/static/chunks/3u4gkj78p1zow.js","/_next/static/chunks/1654pnq96s7jn.js"],"IconMark"]
+f:I[39756,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2m-2pk8y9b50k.js","/_next/static/chunks/3u4gkj78p1zow.js","/_next/static/chunks/1654pnq96s7jn.js"],"default"]
+10:I[37457,["/_next/static/chunks/3fntmmi971322.js","/_next/static/chunks/2m-2pk8y9b50k.js","/_next/static/chunks/3u4gkj78p1zow.js","/_next/static/chunks/1654pnq96s7jn.js"],"default"]
+a:X
+0:{"buildId":"QjxPU9XNkjGlRhA7RoFnn","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"sx":{"py":8},"children":[["$","$L3",null,{"variant":"h3","component":"h1","sx":{"mb":4,"fontWeight":600},"children":"Tools"}],["$","$L3",null,{"variant":"body1","sx":{"mb":6,"opacity":0.8},"children":"A collection of interactive tools and applications related to deep learning, mathematics, and physics."}],[["$","$L4",null,{"children":[["$","$L2","0",{"children":[["$","hr",null,{}],["$","$L5",null,{"tool":{"slug":"latex2svg","title":"LaTeX to SVG","description":"LaTeX to SVG path converter","image":"/tools/latex2svg/cover.png"}}]]}],["$","$L2","1",{"children":[["$","hr",null,{}],["$","$L5",null,{"tool":{"slug":"immo","title":"Simulateur d'Achat Immobilier","description":"Un simulateur simple d'achat immobilier","image":"/tools/immo/cover.png"}}]]}]]}],["$","hr",null,{}]]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0w3qjumo3sgey.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":"$@9","staleTime":"$a","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lb",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$7",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Tools | Antoine's Blog"}],["$","meta","1",{"name":"description","content":"Collection of tools and interactive applications for deep learning, mathematics, and physics."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.1jgabqwtucq6i.ico","sizes":"257x256","type":"image/x-icon"}],["$","$Ld","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@e","staleTime":"$a","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lf",null,{"parallelRouterKey":"children","template":["$","$L10",null,{}]}]]}],"isPartial":"$@11","staleTime":"$a","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+8:null
+13:true
+a:300
+a:C
+12:0
+e:"$undefined"
+11:"$undefined"
+9:"$undefined"
